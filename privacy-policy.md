@@ -29,8 +29,8 @@
 
 ただし、本アプリのプレミアム機能購入時（アプリ内課金）には、各プラットフォーム事業者の課金システム（Android: Google Play Billing、iOS: Apple App Store / StoreKit）を通じて決済処理が行われます。この際の決済情報はそれぞれのプラットフォーム事業者（Google LLC または Apple Inc.）により取り扱われ、当方はクレジットカード情報等の決済に関する個人情報を受領・保管しません。詳細は各社のプライバシーポリシーをご参照ください。
 
-- Google プライバシーポリシー: https://policies.google.com/privacy
-- Apple プライバシーポリシー: https://www.apple.com/legal/privacy/
+- [Google プライバシーポリシー](https://policies.google.com/privacy)                                                                                                     
+- [Apple プライバシーポリシー](https://www.apple.com/legal/privacy/)
 
 ---
 
