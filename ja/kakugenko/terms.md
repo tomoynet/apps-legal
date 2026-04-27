@@ -4,8 +4,8 @@ lang: ja
 title: 利用規約 - 格言庫
 doc_title: 利用規約
 app_name: 格言庫（KakugenKo）
-back_label: "← 格言庫 規約・ポリシー"
-back_url: "../"
+back_label: "← 格言庫"
+back_url: "./"
 lang_alt_label: "English"
 lang_alt_url: "../../en/kakugenko/terms"
 updated: "制定日: 2026年4月27日 / 開発者: Tomoyuki Kimura"

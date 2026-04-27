@@ -4,8 +4,8 @@ lang: en
 title: Privacy Policy - KakugenKo
 doc_title: Privacy Policy
 app_name: KakugenKo (格言庫)
-back_label: "← KakugenKo Legal"
-back_url: "../"
+back_label: "← KakugenKo"
+back_url: "./"
 lang_alt_label: "日本語"
 lang_alt_url: "../../ja/kakugenko/privacy-policy"
 updated: "Effective: April 21, 2026 / Last updated: April 27, 2026 / Developer: Tomoyuki Kimura"

@@ -1,6 +1,6 @@
 # apps-legal
 
-Tomoyuki Kimura が開発するアプリの規約・ポリシーを管理するリポジトリ。  
+Tomoyuki Kimura が開発する全アプリの規約・ポリシーを管理するリポジトリ。  
 GitHub Pages + Jekyll で公開される。
 
 公開URL: `https://tomoynet.github.io/apps-legal/`
@@ -18,17 +18,24 @@ apps-legal/
 │   └── style.css            ← 共通スタイルシート
 ├── index.html               ← ルート（navigator.language で ja/en に自動リダイレクト）
 ├── ja/
-│   ├── index.html           ← 日本語ポータル
+│   ├── index.html           ← 開発者ポータル（全アプリ一覧）
 │   └── kakugenko/
+│       ├── index.html          ← 格言庫ハブ（文書一覧）
 │       ├── privacy-policy.md   ← プライバシーポリシー（Jekyll がHTML化）
 │       ├── terms.md            ← 利用規約（Jekyll がHTML化）
 │       └── contact.html        ← お問い合わせフォーム（Web3Forms）
 └── en/
-    ├── index.html           ← English portal
+    ├── index.html           ← Developer portal (all apps)
     └── kakugenko/
+        ├── index.html          ← KakugenKo hub
         ├── privacy-policy.md
         ├── terms.md
         └── contact.html
+```
+
+**ページ階層:**
+```
+ルート → 開発者ポータル（アプリ一覧）→ アプリハブ（文書一覧）→ 各文書
 ```
 
 ## アプリからのリンク先
@@ -40,7 +47,8 @@ apps-legal/
 | プライバシーポリシー | `https://tomoynet.github.io/apps-legal/ja/kakugenko/privacy-policy` |
 | 利用規約 | `https://tomoynet.github.io/apps-legal/ja/kakugenko/terms` |
 | お問い合わせ | `https://tomoynet.github.io/apps-legal/ja/kakugenko/contact.html` |
-| ポータル | `https://tomoynet.github.io/apps-legal/ja/` |
+| アプリハブ | `https://tomoynet.github.io/apps-legal/ja/kakugenko/` |
+| 開発者ポータル | `https://tomoynet.github.io/apps-legal/ja/` |
 
 ## お問い合わせフォームの設定
 
@@ -59,15 +67,17 @@ Access Key は [Web3Forms](https://web3forms.com/) で取得する。
 
 ## 新しいアプリを追加するとき
 
+1. `ja/新アプリ名/` と `en/新アプリ名/` を作成し、以下を配置する
+
 ```
-ja/
-└── 新アプリ名/
-    ├── privacy-policy.md   ← フロントマターの app_name などを変更
-    ├── terms.md
-    └── contact.html
+ja/新アプリ名/
+├── index.html          ← アプリハブ（kakugenko/index.html を参考に作成）
+├── privacy-policy.md   ← フロントマターの app_name 等を変更
+├── terms.md
+└── contact.html
 ```
 
-`ja/index.html` および `en/index.html` のポータルにリンクを追記する。
+2. `ja/index.html` と `en/index.html`（開発者ポータル）にアプリのカードを追記する
 
 ## 開発者
 

@@ -4,8 +4,8 @@ lang: en
 title: Terms of Service - KakugenKo
 doc_title: Terms of Service
 app_name: KakugenKo (格言庫)
-back_label: "← KakugenKo Legal"
-back_url: "../"
+back_label: "← KakugenKo"
+back_url: "./"
 lang_alt_label: "日本語"
 lang_alt_url: "../../ja/kakugenko/terms"
 updated: "Effective: April 27, 2026 / Developer: Tomoyuki Kimura"
