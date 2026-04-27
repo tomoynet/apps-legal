@@ -4,7 +4,7 @@ lang: ja
 title: 利用規約 - 格言庫
 doc_title: 利用規約
 app_name: 格言庫（KakugenKo）
-back_label: "← 格言庫 法的文書"
+back_label: "← 格言庫 規約・ポリシー"
 back_url: "../"
 lang_alt_label: "English"
 lang_alt_url: "../../en/kakugenko/terms"

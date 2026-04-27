@@ -1,6 +1,6 @@
 # apps-legal
 
-Tomoyuki Kimura が開発するアプリの法的文書を管理するリポジトリ。  
+Tomoyuki Kimura が開発するアプリの規約・ポリシーを管理するリポジトリ。  
 GitHub Pages + Jekyll で公開される。
 
 公開URL: `https://tomoynet.github.io/apps-legal/`
