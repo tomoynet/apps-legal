@@ -1,17 +1,17 @@
 ---
 layout: legal
 lang: en
-title: Terms of Service - Kakugenko
+title: Terms of Service - KakugenKo
 doc_title: Terms of Service
-app_name: Kakugenko (格言庫)
-back_label: "← Kakugenko Legal"
+app_name: KakugenKo (格言庫)
+back_label: "← KakugenKo Legal"
 back_url: "../"
 lang_alt_label: "日本語"
 lang_alt_url: "../../ja/kakugenko/terms"
 updated: "Effective: April 27, 2026 / Developer: Tomoyuki Kimura"
 ---
 
-These Terms of Service ("Terms") govern your use of Kakugenko (格言庫) ("the App"), developed and operated by Tomoyuki Kimura ("I", "me", or "the developer").
+These Terms of Service ("Terms") govern your use of KakugenKo (格言庫) ("the App"), developed and operated by Tomoyuki Kimura ("I", "me", or "the developer").
 
 By downloading, installing, or using the App, you agree to these Terms. If you do not agree, please do not use the App.
 

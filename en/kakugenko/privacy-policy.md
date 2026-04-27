@@ -1,17 +1,17 @@
 ---
 layout: legal
 lang: en
-title: Privacy Policy - Kakugenko
+title: Privacy Policy - KakugenKo
 doc_title: Privacy Policy
-app_name: Kakugenko (格言庫)
-back_label: "← Kakugenko Legal"
+app_name: KakugenKo (格言庫)
+back_label: "← KakugenKo Legal"
 back_url: "../"
 lang_alt_label: "日本語"
 lang_alt_url: "../../ja/kakugenko/privacy-policy"
 updated: "Effective: April 21, 2026 / Last updated: April 27, 2026 / Developer: Tomoyuki Kimura"
 ---
 
-This Privacy Policy describes how Tomoyuki Kimura ("I", "me", or "the developer") handles information in connection with the mobile app Kakugenko (格言庫) ("the App"). It applies to all versions of the App distributed through platforms such as Google Play and Apple App Store.
+This Privacy Policy describes how Tomoyuki Kimura ("I", "me", or "the developer") handles information in connection with the mobile app KakugenKo (格言庫) ("the App"). It applies to all versions of the App distributed through platforms such as Google Play and Apple App Store.
 
 ## 1. Information We Collect
 
