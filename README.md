@@ -21,15 +21,15 @@ apps-legal/
 │   ├── index.html           ← 開発者ポータル（全アプリ一覧）
 │   └── kakugenko/
 │       ├── index.html          ← 格言庫ハブ（文書一覧）
-│       ├── privacy-policy.md   ← プライバシーポリシー（Jekyll がHTML化）
 │       ├── terms.md            ← 利用規約（Jekyll がHTML化）
+│       ├── privacy-policy.md   ← プライバシーポリシー（Jekyll がHTML化）
 │       └── contact.html        ← お問い合わせフォーム（Web3Forms）
 └── en/
     ├── index.html           ← Developer portal (all apps)
     └── kakugenko/
         ├── index.html          ← KakugenKo hub
-        ├── privacy-policy.md
         ├── terms.md
+        ├── privacy-policy.md
         └── contact.html
 ```
 
@@ -44,8 +44,8 @@ apps-legal/
 
 | 画面 | URL（ja の例） |
 |------|--------------|
-| プライバシーポリシー | `https://tomoynet.github.io/apps-legal/ja/kakugenko/privacy-policy` |
 | 利用規約 | `https://tomoynet.github.io/apps-legal/ja/kakugenko/terms` |
+| プライバシーポリシー | `https://tomoynet.github.io/apps-legal/ja/kakugenko/privacy-policy` |
 | お問い合わせ | `https://tomoynet.github.io/apps-legal/ja/kakugenko/contact.html` |
 | アプリハブ | `https://tomoynet.github.io/apps-legal/ja/kakugenko/` |
 | 開発者ポータル | `https://tomoynet.github.io/apps-legal/ja/` |
@@ -72,8 +72,8 @@ Access Key は [Web3Forms](https://web3forms.com/) で取得する。
 ```
 ja/新アプリ名/
 ├── index.html          ← アプリハブ（kakugenko/index.html を参考に作成）
-├── privacy-policy.md   ← フロントマターの app_name 等を変更
-├── terms.md
+├── terms.md            ← フロントマターの app_name 等を変更
+├── privacy-policy.md
 └── contact.html
 ```
 
